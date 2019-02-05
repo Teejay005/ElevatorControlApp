@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IElevatorControl.cs" />
+    <Compile Remove="ElevatorControl.cs" />
+    <Compile Remove="DestinationComparer.cs" />
+    <Compile Remove="StartingPositionComparer.cs" />
+    <Compile Remove="Instructions.cs" />
+  </ItemGroup>
+</Project>
