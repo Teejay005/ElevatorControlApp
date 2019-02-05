@@ -47,5 +47,5 @@ Some test cases:
 2. Clone the app from [github repo](https://github.com/Teejay005/ElevatorControlApp)
 3. Change directory to the app by `cd ElevatorControlApp`.
 4. Run the command `dotnet build`
-5. Run the test by changing directory to the test folder `cd tests`
+5. Run the test by changing directory to the test folder `cd src/ElevatorControlTest`
 6. Then run command `dotnet test`
